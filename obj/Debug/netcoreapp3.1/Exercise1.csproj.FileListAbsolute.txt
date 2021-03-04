@@ -1,0 +1,15 @@
+C:\Users\chris\OneDrive - Grand Canyon University\CST117\Week1\Exercise1\Exercise1\bin\Debug\netcoreapp3.1\Exercise1.exe
+C:\Users\chris\OneDrive - Grand Canyon University\CST117\Week1\Exercise1\Exercise1\bin\Debug\netcoreapp3.1\Exercise1.deps.json
+C:\Users\chris\OneDrive - Grand Canyon University\CST117\Week1\Exercise1\Exercise1\bin\Debug\netcoreapp3.1\Exercise1.runtimeconfig.json
+C:\Users\chris\OneDrive - Grand Canyon University\CST117\Week1\Exercise1\Exercise1\bin\Debug\netcoreapp3.1\Exercise1.runtimeconfig.dev.json
+C:\Users\chris\OneDrive - Grand Canyon University\CST117\Week1\Exercise1\Exercise1\bin\Debug\netcoreapp3.1\Exercise1.dll
+C:\Users\chris\OneDrive - Grand Canyon University\CST117\Week1\Exercise1\Exercise1\bin\Debug\netcoreapp3.1\Exercise1.pdb
+C:\Users\chris\OneDrive - Grand Canyon University\CST117\Week1\Exercise1\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.csprojAssemblyReference.cache
+C:\Users\chris\OneDrive - Grand Canyon University\CST117\Week1\Exercise1\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.Form1.resources
+C:\Users\chris\OneDrive - Grand Canyon University\CST117\Week1\Exercise1\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.csproj.GenerateResource.cache
+C:\Users\chris\OneDrive - Grand Canyon University\CST117\Week1\Exercise1\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive - Grand Canyon University\CST117\Week1\Exercise1\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.AssemblyInfo.cs
+C:\Users\chris\OneDrive - Grand Canyon University\CST117\Week1\Exercise1\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive - Grand Canyon University\CST117\Week1\Exercise1\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.dll
+C:\Users\chris\OneDrive - Grand Canyon University\CST117\Week1\Exercise1\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.pdb
+C:\Users\chris\OneDrive - Grand Canyon University\CST117\Week1\Exercise1\Exercise1\obj\Debug\netcoreapp3.1\Exercise1.genruntimeconfig.cache
